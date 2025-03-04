@@ -110,4 +110,12 @@ The use of recursive descent parsing ensures that expressions are evaluated corr
 
 The program is interactive, allowing users to input expressions and see the results immediately.
 
-#OUTPUT
+<h1>OUTPUT</h1>
+
+![Image](https://github.com/user-attachments/assets/5ae7f166-6207-416f-911b-3a10eff9f1f0)
+
+![Image](https://github.com/user-attachments/assets/93c62fb2-f826-47b1-b828-859b318b811a)
+
+![Image](https://github.com/user-attachments/assets/e5fa5192-f8a8-4c96-beaa-c9aeac0595da)
+
+![Image](https://github.com/user-attachments/assets/d5411f8b-0181-4b6d-bd96-bbb788028788)
