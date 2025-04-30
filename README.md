@@ -1,4 +1,4 @@
-<h1>GAME DEVELOPMENT: SNAKE GAME</h1>
+<h1Basic Mathematical Compiler</h1>
 
 <h2>COMPANY: CODTECH IT SOLUTIONS
 
